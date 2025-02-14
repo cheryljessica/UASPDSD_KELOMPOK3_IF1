@@ -2,9 +2,12 @@ streamlit
 pandas
 numpy
 matplotlib
-statsmodel
+statsmodels
+calendar
 streamlit_option_menu
-scikit-learn
+statsmodels.tsa.arima.model
+sklearn.metrics
+itertools
 
 
 
