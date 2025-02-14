@@ -1,4 +1,3 @@
-Pustaka-Pustaka yang digunakan :
 1. streamlit
 2. pandas
 3. numpy
