@@ -3,11 +3,9 @@ pandas
 numpy
 matplotlib
 statsmodels
-calendar
 streamlit_option_menu
 statsmodels.tsa.arima.model
 sklearn.metrics
-itertools
 
 
 
