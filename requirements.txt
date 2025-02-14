@@ -4,8 +4,7 @@ numpy
 matplotlib
 statsmodels
 streamlit_option_menu
-statsmodels.tsa.arima.model
-sklearn.metrics
+scikit-learn
 
 
 
