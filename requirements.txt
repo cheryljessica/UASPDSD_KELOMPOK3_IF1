@@ -1,10 +1,10 @@
-1. streamlit
-2. pandas
-3. numpy
-4. matplotlib
-5. statsmodel
-6. streamlit_option_menu
-7. scikit-learn
+streamlit
+pandas
+numpy
+matplotlib
+statsmodel
+streamlit_option_menu
+scikit-learn
 
 
 
