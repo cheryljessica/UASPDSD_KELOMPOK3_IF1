@@ -648,19 +648,19 @@ def Perbandingan_Hujan_Polutan_2017 (df_Wanshouxigong,df_Dingling) :
     st.write('<hr>', unsafe_allow_html=True)
     st.caption("10123040 - Rikza Danan Irdian")
 
-file yang dibutuhkan
-df_Aotizhongxin = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Aotizhongxin_20130301-20170228.csv')
-df_Changping = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Changping_20130301-20170228.csv')
-df_Dingling = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Dingling_20130301-20170228.csv')
-df_Dongsi = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Dongsi_20130301-20170228.csv')
-df_Guanyuan = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Guanyuan_20130301-20170228.csv')
-df_Gucheng = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Gucheng_20130301-20170228.csv')
-df_Nongzhanguan = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Nongzhanguan_20130301-20170228.csv')
-df_Huairou = load_data ('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Huairou_20130301-20170228.csv')
-df_Shunyi = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Shunyi_20130301-20170228.csv')
-df_Tiantan = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Tiantan_20130301-20170228.csv')
-df_Wanliu = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Wanliu_20130301-20170228.csv')
-df_Wanshouxigong = load_data('https://github.com/cheryljessica/UASPDSD_KELOMPOK3_IF1/blob/main/PRSA_Data_Wanshouxigong_20130301-20170228.csv')
+#file yang dibutuhkan
+df_Aotizhongxin = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Aotizhongxin_20130301-20170228.csv')
+df_Changping = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Changping_20130301-20170228.csv')
+df_Dingling = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Dingling_20130301-20170228.csv')
+df_Dongsi = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Dongsi_20130301-20170228.csv')
+df_Guanyuan = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Guanyuan_20130301-20170228.csv')
+df_Gucheng = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Gucheng_20130301-20170228.csv')
+df_Huairou = load_data ('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Huairou_20130301-20170228.csv')
+df_Nongzhanguan = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Nongzhanguan_20130301-20170228.csv')
+df_Shunyi = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Shunyi_20130301-20170228.csv')
+df_Tiantan = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Tiantan_20130301-20170228.csv')
+df_Wanliu = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Wanliu_20130301-20170228.csv')
+df_Wanshouxigong = load_data('https://raw.githubusercontent.com/reyhantahira/AirQuality/refs/heads/main/PRSA_Data_Wanshouxigong_20130301-20170228.csv')
 
 #Tampilan
 with st.sidebar :
